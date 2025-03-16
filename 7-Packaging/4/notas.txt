@@ -1,0 +1,3 @@
+aprendendo a usar o workspace 
+comando go work init  ./math ./sistema
+e ai ele cria o arquivo go.work 
